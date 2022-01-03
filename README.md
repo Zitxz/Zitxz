@@ -5,6 +5,9 @@
 
 ### Languages learning or studying
 
-- C#, Python, Lua and JavaScript. 🔗
+- C# 🔗
+- Python 🔗
+- Lua 🔗
+- JavaScript 🔗
 
 - _Thx for read._ 📜
