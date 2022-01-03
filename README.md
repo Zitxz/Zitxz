@@ -10,4 +10,4 @@
 - Lua 🔗
 - JavaScript 🔗
 
-- _Thx for read._ 📜
+_Thx for read._ 📜
